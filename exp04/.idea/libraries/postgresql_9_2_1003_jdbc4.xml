@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="postgresql-9.2-1003.jdbc4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../2021/2021SPRI 空间数据库-焦东来/实验3-4/postgresql-9.2-1003.jdbc4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../2021/2021SPRI 空间数据库-焦东来/实验3-4/sqljdbc4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
